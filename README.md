@@ -179,3 +179,22 @@ Step 4: Add the URL for your web app and with rest of the parameters as default,
 Step 5: Go to Application Map and check with the performance of your app after 5 minutes of adding the test
 
 Reference - https://learn.microsoft.com/en-us/azure/azure-monitor/app/monitor-web-app-availability
+
+Experiential Learning on Python
+---------------------------------
+
+Task 1 - Create a Djanjo project and connect it to Azure SQL Database
+
+Task 2 - Publish the project to App Service and configure the settings for database in App Service
+
+Reference (Task 1 & 2): https://learn.microsoft.com/en-us/samples/azure-samples/azure-sql-db-django/azure-sql-db-django/
+
+Task 3 - Store database credentials into Azure Key Vault and retreive the secrets into the project
+
+Reference: https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-python?tabs=azure-cli
+
+Task 4 - Deploy the Project to App Service through multi-stage pipeline in Azure DevOps
+
+Reference: https://rishabhbeni0550@dev.azure.com/rishabhbeni0550/Experiential%20Learning%20%28Stratacent%29/_git/Experiential%20Learning%20%28Stratacent%29
+
+Task 5 - Perform CRUD operations on APIs of the deployed app using APIM
