@@ -198,3 +198,10 @@ Task 4 - Deploy the Project to App Service through multi-stage pipeline in Azure
 Reference: https://rishabhbeni0550@dev.azure.com/rishabhbeni0550/Experiential%20Learning%20%28Stratacent%29/_git/Experiential%20Learning%20%28Stratacent%29
 
 Task 5 - Perform CRUD operations on APIs of the deployed app using APIM
+
+Additional Links
+-----------------
+
+AZ-204: https://learn.microsoft.com/en-us/certifications/exams/az-204/
+
+DevOps Learning Path: https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/
